@@ -1,5 +1,4 @@
 #Cálculo da tabuada
-
 #Apresentação
 print('\n\t\t\t  --  Cálculo da Tabuada   --')
 
